@@ -2,7 +2,7 @@ Final Summary
 # Title : International awareness to notable events
 
 # Abstract 
-*What's the motivation behind your project? A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? *
+*What's the motivation behind your project? A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why?*
 
 Major events happen on a regular basis all around the world, some involving high number of casualties but the resulting reaction on the international scale is often far from proportional. Most of the time the largest reaction comes from the place where the incident occurred or places which are closeby. The objective would be  to create an awareness map, and determine why people react to an event. From that we would attempt to define an awareness metric. We want to see how factors other than physical proximity come into play such as country, culture, language, religion. With this we could determine which country has the highest level of international awareness.  The project would require the Twitter API to acquire hashtag specific tweets with geolocation and therefore measure the awareness and reactions of different communities to a given event. GDELT would be used to recover standardised information regarding different events. 
 
