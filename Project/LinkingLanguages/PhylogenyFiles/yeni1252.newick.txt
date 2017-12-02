@@ -1,0 +1,1 @@
+(('Ket [kett1243][ket]-l-':1,'Yugh [yugh1239][yug]-l-':1)'Northern Yeniseian [nort2746]':1,(('Arin [arin1243][xrn]-l-':1,'Pumpokol [pump1237][xpm]-l-':1)'Arin-Pumpokol [arin1242]':1,'Kott-Assan [kott1239][zko]-l-':1)'Southern Yeniseian [sout2751]':1)'Yeniseian [yeni1252]':1

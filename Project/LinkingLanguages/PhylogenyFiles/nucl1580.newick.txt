@@ -1,0 +1,1 @@
+(('Tairuma [tair1256][uar]-l-':1,('Kaipi [kaip1241]':1,'Nuclear Toaripi [nucl1581]':1,'Sepoe [sepo1239]':1)'Toaripi [toar1246][tqo]-l-':1)'Eastern Eleman [east2494]':1,(('Aheave [ahea1235]':1)'Keoru-Ahia [keor1235][xeu]-l-':1,'Opao [opao1240][opo]-l-':1,'Orokolo [orok1267][oro]-l-':1)'Western Eleman [west2573]':1)'Eleman [nucl1580]':1

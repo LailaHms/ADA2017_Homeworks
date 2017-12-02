@@ -1,0 +1,1 @@
+('Nez Perce [nezp1238][nez]-l-':1,(('Northeast Sahaptin [wall1238][waa]-l-':1,('Klikitat [klik1240]':1,'Nuclear Yakima [nucl1237]':1)'Northwest Sahaptin [yaki1237][yak]-l-':1)'Northern Sahaptin [nort1527]':1,('Tenino [teni1238][tqn]-l-':1,'Umatilla [umat1237][uma]-l-':1)'Southern Sahaptin [sout1502]':1)'Sahaptin [saha1240]':1)'Sahaptian [saha1239]':1
