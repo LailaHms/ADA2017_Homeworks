@@ -1,0 +1,1 @@
+('Demta [demt1241][dmy]-l-':1,('Nafri [nafr1241][nxx]-l-':1,('Central Sentani [cent2123]':1,'East Sentani [east2518]':1,'West Sentani [west2602]':1)'Sentani [nucl1632][set]-l-':1,('Tepera [tepe1277]':1,'Yewena-Yongsu [yewe1238]':1,'Yokari [yoka1243]':1)'Tabla [tabl1243][tnm]-l-':1)'Nuclear Sentanic [nucl1631]':1)'Sentanic [sent1261]':1
