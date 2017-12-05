@@ -1,0 +1,1 @@
+(('Abipon [abip1241][axb]-l-':1,('Mocoví [moco1246][moc]-l-':1,(('Chaco Pilagá [chac1252]':1,'Toba-Pilagá [toba1270]':1)'Pilagá [pila1245][plg]-l-':1,('Northern Toba [nort2983]':1,'Southeast Toba [sout2995]':1)'Toba [toba1269][tob]-l-':1)'Pilaga-Toba [pila1244]':1)'Qom [qomm1235]':1)'Guaicuru del Sur [guai1250]':1,'Kadiwéu [kadi1248][kbc]-l-':1)'Guaicuruan [guai1249]':1

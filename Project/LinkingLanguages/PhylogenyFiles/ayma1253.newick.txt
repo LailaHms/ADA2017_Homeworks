@@ -1,0 +1,1 @@
+(('Central Aymara [cent2142][ayr]-l-':1,'Southern Aymara [sout2996][ayc]-l-':1)'Central-Southern Aymara [nucl1667][aym]':1,('Cauqui [cauq1239]':1)'Jaqaru [jaqa1244][jqr]-l-':1)'Aymaran [ayma1253]':1
