@@ -23,7 +23,7 @@ Major events happen on a regular basis all around the world, some involving high
 
 An important point to take into account was which events to select so that they could be comparable and tell a story. For this the nature of the event, the number of casualties, who was effected (civilians, military etc…)  needed to be taken into account. Another factor was the location. 
 
-![alt text](https://github.com/LailaHms/ADA2017_Homeworks/blob/Project/Project/Tree%20of%20Possibilities.png "Decision Tree for Event Selection")
+![alt text](https://github.com/LailaHms/ADA2017_Homeworks/blob/master/Project/Milestone1/Tree%20of%20Possibilities.png "Decision Tree for Event Selection")
 
 When analyzing the reactions we need to be attentive to the level of twitter activity. Between different different countries we may require a normalizing factor or selecting events in countries where there is a minimal twitter activity. We also need to be attentive to the size and population of the countries and the proportion of tweeters.
 
@@ -50,7 +50,7 @@ When analyzing the reactions we need to be attentive to the level of twitter act
 - **GDELT** (with queries) for major events with localisation with **UCDP**. This datasets would be useful to get standardised information on the selected events. 
 - **Wikidata** for other metrics (language, religion, government, population, country size etc...)
 
-![alt text](https://github.com/LailaHms/ADA2017_Homeworks/blob/Project/Project/Copy%20Of%20Project%20Drawing%20_%20Laila.png "Milestone 1 Recap")
+![alt text](https://github.com/LailaHms/ADA2017_Homeworks/blob/master/Project/Milestone1/Copy%20Of%20Project%20Drawing%20_%20Laila.png "Milestone 1 Recap")
 
 # A list of internal milestones up until project milestone 2
 *Add here a sketch of your planning for the next project milestone.*
